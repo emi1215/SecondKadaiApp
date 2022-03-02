@@ -10,7 +10,7 @@ import UIKit
 class ResultViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
     
-    var x:Int = 0
+    var x:String = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
